@@ -8,3 +8,5 @@ $.ajax({
   });
       
 document.getElementById('ima')=innerHTML+="<img src="+results.picture.large+">";
+
+document.onload(document.getElementById('menu').hidden());

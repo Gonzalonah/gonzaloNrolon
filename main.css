@@ -16,7 +16,6 @@
 .row{
     background-color: rgba(137, 43, 226, 0.597);
 }
-.col-5 .col-7{
-    border: solid rgb(49, 16, 80) 3px;
-
+.ar{
+    border: 3px solid rgb(49, 16, 80);
 }

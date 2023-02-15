@@ -1,3 +1,4 @@
+/*-------------header-------------*/
 .nav-item{
    
    
@@ -10,4 +11,12 @@
 }
 .nav-link{
     color: #8a94a1;
+}
+/*--------------main--------------*/
+.row{
+    background-color: rgba(137, 43, 226, 0.597);
+}
+.col-5 .col-7{
+    border: solid rgb(49, 16, 80) 3px;
+
 }
